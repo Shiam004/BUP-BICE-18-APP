@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="HOME" />
+
+
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="BUP Website" />
+
+
+        <item
+            android:id="@+id/nav_ucam"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="UCAM" />
+
+        <item
+
+            android:id="@+id/nav_bice"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="BICE-18" />
+
+        <item
+            android:id="@+id/nav_routine"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="ROUTINE" />
+
+
+        <item
+
+            android:id="@+id/nav_classroom"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="GOOGLE CLASSROOM" />
+
+        <item
+
+            android:id="@+id/nav_blood"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="BLOOD GROUP" />
+
+
+    </group>
+
+
+
+
+
+</menu>

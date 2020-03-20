@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520281483900",
+    "firebase_url": "https://bice-18.firebaseio.com",
+    "project_id": "bice-18",
+    "storage_bucket": "bice-18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520281483900:android:f4a46c9ecbda6a6fe077f9",
+        "android_client_info": {
+          "package_name": "com.shabiruzzaman_shiam.bice_18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520281483900-3t8p77191avlpfk1udq4q31ap9idgigi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shabiruzzaman_shiam.bice_18",
+            "certificate_hash": "bba77c0e04612bf6e62fdb5c724768ffa9cd4b21"
+          }
+        },
+        {
+          "client_id": "520281483900-evnev7fv48tncg67poil509ptt0uhap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwHp9ZC-vHLRUGTfrp9-UULL85WEhLTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520281483900-evnev7fv48tncg67poil509ptt0uhap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
