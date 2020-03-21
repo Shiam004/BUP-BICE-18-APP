@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
 
     <group android:checkableBehavior="single">
 
 
         <item
+
             android:id="@+id/nav_home"
             android:icon="@drawable/home"
             android:title="HOME" />
@@ -44,6 +47,19 @@
             android:id="@+id/nav_blood"
             android:icon="@drawable/ic_web_asset_black_24dp"
             android:title="BLOOD GROUP" />
+
+        <item
+
+            android:id="@+id/nav_notice"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="NOTICE" />
+
+        <item
+
+            android:id="@+id/nav_fb"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="BICE-18 GROUP" />
+
 
 
     </group>

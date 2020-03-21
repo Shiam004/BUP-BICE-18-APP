@@ -125,7 +125,18 @@ public class DashBoard extends AppCompatActivity implements NavigationView.OnNav
 
                 startActivity(intent);
                 break;
+            case R.id.nav_fb:
 
+                intent = new Intent(DashBoard.this, fbgroup.class);
+
+                startActivity(intent);
+                break;
+            case R.id.nav_notice:
+
+                intent = new Intent(DashBoard.this, Notices.class);
+
+                startActivity(intent);
+                break;
 
         }
         drawerLayout.closeDrawer(GravityCompat.START);
