@@ -48,17 +48,19 @@
             android:icon="@drawable/ic_web_asset_black_24dp"
             android:title="BLOOD GROUP" />
 
-        <item
 
-            android:id="@+id/nav_notice"
-            android:icon="@drawable/ic_web_asset_black_24dp"
-            android:title="NOTICE" />
 
         <item
 
             android:id="@+id/nav_fb"
             android:icon="@drawable/ic_web_asset_black_24dp"
             android:title="BICE-18 GROUP" />
+
+        <item
+
+            android:id="@+id/nav_noti"
+            android:icon="@drawable/ic_web_asset_black_24dp"
+            android:title="NOTICE" />
 
 
 

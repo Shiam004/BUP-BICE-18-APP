@@ -11,8 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".NewTaskAct"></activity>
+        <activity android:name=".FireNotice" />
         <activity android:name=".fbgroup" />
-        <activity android:name=".Notices" />
         <activity android:name=".routine" />
         <activity android:name=".class_room" />
         <activity android:name=".Blood_Group" />

@@ -4,11 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".routine">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:onClick="backpress"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/ic_arrow_back_black_24dp" />
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/rotin"
+        android:id="@+id/rutin"
         />
+
 </LinearLayout>
